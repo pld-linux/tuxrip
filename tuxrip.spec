@@ -27,7 +27,7 @@ video file can be viewed on all OS.
 
 %description -l pl
 Tuxrip to linksowy skrypt pow³oki s³u¿±cy do zrzucania oraz kodowania
-DVD przy uzyciu mpeg4 (XviD, libavcodec). Wykorzystuje bardzo ³atwy 
+DVD przy u¿yciu mpeg4 (XviD, libavcodec). Wykorzystuje bardzo ³atwy 
 w u¿yciu tekstowy interfejs i dzia³a na wiêkszo¶ci dystrybucji 
 linuksowych. Skompresowany plik video jest niezale¿ny od systemu
 operacyjnego.
