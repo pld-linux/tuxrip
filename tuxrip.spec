@@ -49,5 +49,5 @@ rm -rf $RPM_BUILD_ROOT
 %doc CHANGELOG
 %lang(en) %doc doctuxrip/en/*.{html,png}
 %lang(fr) %doc doctuxrip/fr/*.{html,png}
-%lang(sp) %doc doctuxrip/sp/*.{html,png}
+%lang(es) %doc doctuxrip/sp/*.{html,png}
 %attr(755,root,root) %{_bindir}/*
