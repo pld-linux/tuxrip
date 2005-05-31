@@ -1,13 +1,13 @@
-%define		_pver	097
+%define		_pver	098
 Summary:	tuxrip - shell script helpful with DVD ripping 
 Summary(pl):	tuxrip - skrypt pomocny przy zrzucaniu DVD
 Name:		tuxrip
-Version:	0.97
+Version:	0.98
 Release:	0.1
 License:	GPL
 Group:		X11/Applications/Multimedia
 Source0:	http://tuxrip.free.fr/tuxrip/%{name}%{_pver}.tar.bz2
-# Source0-md5:	a30e2130917359f8b94c25bd2a8579a0
+# Source0-md5:	fae548ec0332f56b3d3a85d6104a7f43
 URL:		http://tuxrip.free.fr/
 Requires:	libdvdcss
 Requires:	libdvdread
