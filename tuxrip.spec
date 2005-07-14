@@ -15,7 +15,7 @@ Requires:	libogg
 Requires:	libvorbis
 Requires:	mplayer
 Requires:	ogmtools
-Requires:	perl
+Requires:	perl-base
 Requires:	transcode
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
@@ -39,7 +39,7 @@ operacyjnego.
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT%{_bindir}
 
-install {transperl.pl,tuxrip} $RPM_BUILD_ROOT%{_bindir}
+install transperl.pl tuxrip $RPM_BUILD_ROOT%{_bindir}
 
 %clean
 rm -rf $RPM_BUILD_ROOT
