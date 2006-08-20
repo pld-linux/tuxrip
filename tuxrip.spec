@@ -17,6 +17,7 @@ Requires:	mplayer
 Requires:	ogmtools
 Requires:	perl-base
 Requires:	transcode
+Requires:	vorbis-tools
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
