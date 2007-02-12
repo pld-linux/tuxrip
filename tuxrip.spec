@@ -1,6 +1,6 @@
 %define		_pver	098
 Summary:	tuxrip - shell script helpful with DVD ripping 
-Summary(pl.UTF-8):   tuxrip - skrypt pomocny przy zrzucaniu DVD
+Summary(pl.UTF-8):	tuxrip - skrypt pomocny przy zrzucaniu DVD
 Name:		tuxrip
 Version:	0.98
 Release:	0.1
