@@ -1,6 +1,6 @@
 %define		_pver	098
 Summary:	tuxrip - shell script helpful with DVD ripping 
-Summary(pl):	tuxrip - skrypt pomocny przy zrzucaniu DVD
+Summary(pl.UTF-8):   tuxrip - skrypt pomocny przy zrzucaniu DVD
 Name:		tuxrip
 Version:	0.98
 Release:	0.1
@@ -26,11 +26,11 @@ format (XviD, libavcodec). It uses a text based interface very easy
 to use and will work on most Linux distributions. The compressed 
 video file can be viewed on all OS.
 
-%description -l pl
-Tuxrip to linuksowy skrypt pow≥oki s≥uø±cy do zrzucania oraz kodowania
-DVD przy uøyciu MPEG4 (XviD, libavcodec). Wykorzystuje bardzo ≥atwy
-w uøyciu tekstowy interfejs i dzia≥a na wiÍkszo∂ci dystrybucji
-Linuksa. Skompresowany plik video jest niezaleøny od systemu
+%description -l pl.UTF-8
+Tuxrip to linuksowy skrypt pow≈Çoki s≈Çu≈ºƒÖcy do zrzucania oraz kodowania
+DVD przy u≈ºyciu MPEG4 (XviD, libavcodec). Wykorzystuje bardzo ≈Çatwy
+w u≈ºyciu tekstowy interfejs i dzia≈Ça na wiƒôkszo≈õci dystrybucji
+Linuksa. Skompresowany plik video jest niezale≈ºny od systemu
 operacyjnego.
 
 %prep
