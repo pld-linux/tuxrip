@@ -3,16 +3,18 @@ Summary:	tuxrip - shell script helpful with DVD ripping
 Summary(pl.UTF-8):	tuxrip - skrypt pomocny przy zrzucaniu DVD
 Name:		tuxrip
 Version:	0.98
-Release:	0.1
+Release:	0.2
 License:	GPL
 Group:		X11/Applications/Multimedia
 Source0:	http://tuxrip.free.fr/tuxrip/%{name}%{_pver}.tar.bz2
 # Source0-md5:	fae548ec0332f56b3d3a85d6104a7f43
 URL:		http://tuxrip.free.fr/
+Requires:	bc
 Requires:	libdvdcss
 Requires:	libdvdread
 Requires:	libogg
 Requires:	libvorbis
+Requires:	mencoder
 Requires:	mplayer
 Requires:	ogmtools
 Requires:	perl-base
